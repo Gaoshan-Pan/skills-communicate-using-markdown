@@ -5,3 +5,4 @@
 ##### Header with 5 well signs
 ###### Header with 6 well signs
 ####### Header with 7 well signs no header anymore
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
